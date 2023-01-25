@@ -103,7 +103,7 @@ if uploaded_file is not None:
     st.image(gray_image, caption='GrayScale Image of the Credit Card')
     st.markdown('## Preprocessed Image of the Credit Card')
     st.image(image_preprocessed, caption='Preprocessed Image of the Credit Card')
-    validity_date, validity_duration = credit_card_validity(image_preprocessed, gray_image)
+    validity_date, validity_duration = credit_card_validity(image_preprocessed)
     st.markdown('## Information from the Credit Card')
     st.info('The Credit Card Validity (MM/YYYY) is **{}.**'.format(validity_date))
     st.info('**{}**'.format(validity_duration))
