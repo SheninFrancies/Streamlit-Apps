@@ -1,0 +1,9 @@
+arrow==1.2.3
+numpy==1.24.1
+opencv_python_headless==4.7.0.68
+pandas==1.4.4
+Pillow==9.4.0
+pytesseract==0.3.10
+python_dateutil==2.8.2
+streamlit==1.17.0
+tesseract==0.1.3
