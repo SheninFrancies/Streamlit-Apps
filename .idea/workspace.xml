@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efe6c33d-dfc5-4976-9ba3-75fc83d94e87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Images/Credit Card 01.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Credit Card 01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Credit Card 02.png" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Credit Card 02.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Credit Card 03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/03__Credit Card.py" beforePathEscaped="$PROJECT_DIR$/pages/03__💳Credit Card.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/03__Credit Card.py" afterPathEscaped="$PROJECT_DIR$/pages/03__💳Credit Card.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +21,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
