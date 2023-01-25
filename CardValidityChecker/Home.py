@@ -17,6 +17,6 @@ st.title('Card Validity Checker')
 st.text('This web application allows users to check the validity of their Credit Card or Driving License.')
 st.text('The validity is checked by employing the concept of OCR in OpenCV.')
 
-file = "Images/home_image.jpg"
+file = "CardValidityChecker/Images/home_image.jpg"
 image = Image.open(file)
 st.image(image)

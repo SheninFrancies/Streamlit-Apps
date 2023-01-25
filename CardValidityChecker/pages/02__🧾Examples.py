@@ -21,7 +21,7 @@ st.markdown(hide_footer, unsafe_allow_html=True)
 
 
 def load_images():
-    image_files = glob.glob("Images/Credit Card*") + glob.glob("Images/Driving License*")
+    image_files = glob.glob("CardValidityChecker/Images/Credit Card*") + glob.glob("CardValidityChecker/Images/Driving License*")
     return image_files
 
 

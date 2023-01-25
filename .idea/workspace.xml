@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efe6c33d-dfc5-4976-9ba3-75fc83d94e87" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a063f5d3-f05d-48e7-bb4c-8ec9b382dad6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Streamlit-CardValidityChecker.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.streamlit/config.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Credit Card 01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Credit Card 02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Driving License 01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Driving License 02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Driving License 03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/home_image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/01__About.py" beforePathEscaped="$PROJECT_DIR$/pages/01__🔎About.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/02__Examples.py" beforePathEscaped="$PROJECT_DIR$/pages/02__🧾Examples.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/03__Credit Card.py" beforePathEscaped="$PROJECT_DIR$/pages/03__💳Credit Card.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/04__Driving License.py" beforePathEscaped="$PROJECT_DIR$/pages/04__🆔Driving License.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,38 +33,21 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Kos3y95gPiUjT8DePThnCF32yN" />
+  <component name="ProjectId" id="2Kp4ZbRgUpg8tN3M1iO45eFKYEJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
-  }
-}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="efe6c33d-dfc5-4976-9ba3-75fc83d94e87" name="Changes" comment="" />
-      <created>1674652077809</created>
+      <changelist id="a063f5d3-f05d-48e7-bb4c-8ec9b382dad6" name="Changes" comment="" />
+      <created>1674658248918</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1674652077809</updated>
+      <updated>1674658248918</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
