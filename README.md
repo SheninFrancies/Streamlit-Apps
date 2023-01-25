@@ -6,4 +6,4 @@ The web applications provide an UI for the programs developed using Computer Vis
 ### Current Applications
 
 1. Card Validity Checker - Credit Card and Driving License
-Access the application [here](card-validity-checker.streamlit.app)
+Access the application [here](https://card-validity-checker.streamlit.app/)
