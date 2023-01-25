@@ -59,7 +59,7 @@ def image_preprocessing(image, resize_width=900, resize_height=600):
 
 
 ## Get the Expiry and Check Validity
-def credit_card_validity(image_preprocessed, gray_image, confidence=30):
+def credit_card_validity(image_preprocessed, confidence=30):
     data = pytesseract.image_to_data(image_preprocessed, output_type=Output.DICT)
     extract = []
     for i in range(len(data['text'])):

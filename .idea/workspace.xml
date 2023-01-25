@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efe6c33d-dfc5-4976-9ba3-75fc83d94e87" name="Changes" comment="" />
+    <list default="true" id="efe6c33d-dfc5-4976-9ba3-75fc83d94e87" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Images/Credit Card 01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Credit Card 01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Credit Card 02.png" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Credit Card 02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Credit Card 03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/03__Credit Card.py" beforePathEscaped="$PROJECT_DIR$/pages/03__💳Credit Card.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/03__Credit Card.py" afterPathEscaped="$PROJECT_DIR$/pages/03__💳Credit Card.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,5 +36,16 @@
       <updated>1674652077809</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
