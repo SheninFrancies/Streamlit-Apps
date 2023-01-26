@@ -34,10 +34,10 @@ for col, file in zip(cols, image_files):
     parts = file.split("/")
     file_name = parts[-1].split(".")[0]
     image = Image.open(file)
-    image = image.resize((700, 500))
-    col.image(image)
+    image_display = image.resize((1000, 600))
+    col.image(image_display)
     buf = BytesIO()
-    image.save(buf, format="png")
+    image.save(buf)
     byte_im = buf.getvalue()
     btn = col.download_button(
         label="Download {}".format(file_name),
