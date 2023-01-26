@@ -37,7 +37,7 @@ for col, file in zip(cols, image_files):
     # image_display = image.resize((600, 400))
     col.image(image)
     buf = BytesIO()
-    image.save(buf, format="png")
+    image.save(buf, format="jpg")
     byte_im = buf.getvalue()
     btn = col.download_button(
         label="Download {}".format(file_name),
