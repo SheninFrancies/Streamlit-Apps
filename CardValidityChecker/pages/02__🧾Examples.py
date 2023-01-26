@@ -34,7 +34,7 @@ for col, file in zip(cols, image_files):
     parts = file.split("/")
     file_name = parts[-1].split(".")[0]
     image = Image.open(file)
-    image_display = image.resize((600, 400))
+    image = image.resize((600, 400))
     col.image(image)
     buf = BytesIO()
     image.save(buf, format="png")
