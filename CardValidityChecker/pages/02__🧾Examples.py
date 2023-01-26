@@ -43,5 +43,5 @@ for col, file in zip(cols, image_files):
         label="Download {}".format(file_name),
         data=byte_im,
         file_name=file,
-        mime="image/png",
+        mime="image/jpg",
     )
