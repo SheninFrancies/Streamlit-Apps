@@ -8,7 +8,7 @@ st.set_page_config(layout='wide', page_title='Examples')
 
 # Title and Intro
 st.title('Example Files')
-st.text('Here are some example cards to download and play around with.')
+st.text('Here are some example Images to download and play around with.')
 
 
 # Remove Footer and Menu
